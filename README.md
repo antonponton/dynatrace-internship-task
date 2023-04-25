@@ -2,6 +2,8 @@
 
 I choose to do this task in python
 
+Link to docker image : https://hub.docker.com/r/antonponton/dynatrace-internship-task
+
 ## Instructions to run the server an test operations:
 
 -To start the server, run this command:
